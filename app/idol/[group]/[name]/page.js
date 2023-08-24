@@ -16,3 +16,5 @@ export default async function Idol(props) {
     </div>
   );
 }
+
+/*asdfkjbasdfkjbasdkjflb*/
